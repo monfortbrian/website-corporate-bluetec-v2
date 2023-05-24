@@ -1,9 +1,3 @@
-# Mac files
-.DS_Store
-
-# Dependency directories
 /node_modules
-
-# lerna files
-/lerna-debug.log
-
+package-lock.json
+.cache
